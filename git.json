@@ -1,0 +1,52 @@
+[
+    {
+        "p_rel_url" : "Sumit170694/Adventure-Works-Data-Engineering-Project/refs/heads/main/AdventureWorks_Product_Categories.csv",
+        "p_sink_folder" : "product_categories",
+        "p_file_name" : "product_categories.csv"
+    },
+    {
+        "p_rel_url" : "Sumit170694/Adventure-Works-Data-Engineering-Project/refs/heads/main/AdventureWorks_Calendar.csv",
+        "p_sink_folder" : "calendar",
+        "p_file_name" : "calendar.csv"
+    },
+    {
+        "p_rel_url" : "Sumit170694/Adventure-Works-Data-Engineering-Project/refs/heads/main/AdventureWorks_Customers.csv",
+        "p_sink_folder" : "customers",
+        "p_file_name" : "customers.csv"
+    },
+    {
+        "p_rel_url" : "Sumit170694/Adventure-Works-Data-Engineering-Project/refs/heads/main/AdventureWorks_Product_Subcategories.csv",
+        "p_sink_folder" : "productsubcategories",
+        "p_file_name" : "product_subcategories.csv"
+    },
+    {
+        "p_rel_url" : "Sumit170694/Adventure-Works-Data-Engineering-Project/refs/heads/main/AdventureWorks_Products.csv",
+        "p_sink_folder" : "products",
+        "p_file_name" : "products.csv"
+    },
+    {
+        "p_rel_url" : "Sumit170694/Adventure-Works-Data-Engineering-Project/refs/heads/main/AdventureWorks_Returns.csv",
+        "p_sink_folder" : "returns",
+        "p_file_name":"returns.csv"
+    },
+    {
+        "p_rel_url" : "Sumit170694/Adventure-Works-Data-Engineering-Project/refs/heads/main/AdventureWorks_Sales_2015.csv",
+        "p_sink_folder" : "sales_2015",
+        "p_file_name" : "sales_2015.csv"
+    },
+    {
+        "p_rel_url" : "Sumit170694/Adventure-Works-Data-Engineering-Project/refs/heads/main/AdventureWorks_Sales_2016.csv",
+        "p_sink_folder" : "sales_2016",
+        "p_file_namee" : "sales_2016.cvsv"
+    },
+    {
+        "p_rel_url" : "Sumit170694/Adventure-Works-Data-Engineering-Project/refs/heads/main/AdventureWorks_Sales_2017.csv",
+        "p_sink_folder" : "sales_2017",
+        "p_file_name" : "sales_2017.csv"
+    },
+    {
+        "p_rel_url" : "Sumit170694/Adventure-Works-Data-Engineering-Project/refs/heads/main/AdventureWorks_Territories.csv",
+        "p_sink_folder" : "territories",
+        "p_file_name" : "territories.csv"
+    }
+]
