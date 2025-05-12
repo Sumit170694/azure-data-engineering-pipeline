@@ -97,12 +97,6 @@ Power BI (Interactive Dashboard) </pre>
 This project was a complete cloud-based data engineering journey. From ingesting real data into Azure to delivering a live analytics dashboard, it captures the typical tasks handled by a modern Data Engineer. It also strengthened my understanding of distributed computing using PySpark and the integration capabilities within the Microsoft Azure ecosystem.
 
 ─────────────────────────────────────────────────────────────────────────
-## 🙌 Acknowledgements
-
-Grateful for community tutorials and documentation that supported this build.  
-Special credit to [Ansh Lamba](https://www.youtube.com/@AnshLambaJSR) for providing great guidance.
-
-─────────────────────────────────────────────────────────────────────────
 ## 👤 Author
 
 **Name:** Sumit Chhillar  
